@@ -1,0 +1,52 @@
+Report created: 
+	6/7/2016	10:10:40 AM
+
+Project name: sfpc_building_map.aep
+
+Source files collected to: 
+	E:\SFPC\SFPC_tech_AE\sfpc_building_map folder
+
+Source files collected: All
+
+Collected comps:  
+	Control Switch
+	Control Switch Building
+	rough squares
+	Countdown Comp
+	Countdown Building
+	volume
+	Volume PC
+	Building Texture
+	
+Number of collected files:  4
+
+Size of collected files:  147 MB
+
+Collected source files: 
+	C:\Users\Will\Desktop\Philip\Assets\052716_SFPC_WalkThrough_043.tif
+	C:\Users\Will\Desktop\Philip\Assets\Hastings Building.PNG
+	C:\Users\Will\Desktop\Philip\Assets\snip-haystings-building.JPG
+	C:\Users\Will\Desktop\Scene 3-4 v8.mp3
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  6
+
+Effect:  CC Plastic
+	
+Effect:  Find Edges
+	
+Effect:  Glow
+	
+Effect:  Gradient Ramp
+	
+Effect:  Invert
+	
+Effect:  Mosaic
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Terminal”, Font style: “Regular”
+
